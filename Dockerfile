@@ -1,2 +1,2 @@
-FROM getnikein2007/website
+FROM hshar/website
 ADD . /var/www/html
