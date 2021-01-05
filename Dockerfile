@@ -1,2 +1,2 @@
-FROM hshar/website
+FROM nginx
 ADD . /var/www/html
